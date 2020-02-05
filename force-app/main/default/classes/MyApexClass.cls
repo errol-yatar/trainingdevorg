@@ -7,4 +7,8 @@ public class MyApexClass {
         return a + b;
     }
 
+    public Integer subtract() {
+        return a - b;
+    }
+
 }
