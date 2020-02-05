@@ -1,5 +1,8 @@
 # Instructions
 
+## Salesforce Login
+Use this credential: errol.yatar@simplus.com.trainingdevorg (shared in lastpass) if you want to test your code. If it doesn't appear, click on the lastpass icon and go to More Options > Advanced > Refresh Sites
+
 ## Clone
 
 Clone this repository in your local machine by using this command: `git clone https://github.com/errol-yatar/trainingdevorg.git`
